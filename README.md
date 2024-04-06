@@ -14,8 +14,5 @@ Pendekeza is a sophisticated recommendation system designed to assist prospectiv
 * Python > 3.0
 * MySQL Server
 * MySQL Connector/Python
-
-  ## Installation
-  1. Clone the repository:
   
   
